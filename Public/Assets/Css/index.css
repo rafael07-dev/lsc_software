@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
+
+main {
+    flex: 1;
+    background-color: aqua;
+}
+
+footer img{
+    width: 100%;
+    height: 100px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Opcional: ajusta esto según tus necesidades */
+}
+
+video{
+    height: 60%;
+    margin: 60%;
+}
+
+
+
+
