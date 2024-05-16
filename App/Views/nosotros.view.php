@@ -16,7 +16,7 @@
 
 <body>
     <?php
-    require '../App/templates/header.php';
+    require '../App/Views/templates/header.php';
     ?>
     <main>
 
@@ -37,7 +37,7 @@
         <!-- place footer here " -->
 
         <div class="container">
-            <img src="/adso/public/assets/img/piepagina.png" alt="footer">
+            <img src="/lsc_software/public/assets/img/piepagina.png" alt="footer">
         </div>
 
 

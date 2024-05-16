@@ -17,7 +17,7 @@
 <body>
 
     <?php
-    require '../App/templates/header.php';
+    require '../App/Views/templates/header.php';
     ?>
 
     <div class="container py-4">

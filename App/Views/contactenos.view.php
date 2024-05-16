@@ -18,7 +18,7 @@
 
 <body style="display: flex; flex-direction: column; min-height: 100vh;">
     <?php
-    require '../App/templates/header.php';
+    require '../App/Views/templates/header.php';
     ?>
     <main>
 
